@@ -13,3 +13,9 @@ Vulpy разделен на две части bad и good. Bad уже закон
     Безопасное развитие Securetia (https://www.securetia.com/cursos.html) Безопасное развитие EducaciónIT (https://www.educacionit.com/curso-de-desarrollo-seguro)
     
     Но вы можете использовать его по своему усмотрению (Лицензия MIT)
+
+    Версия «GOOD» (ещё не закончена) будет соответствовать требованиям OWASP ASVS:
+
+    https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project
+
+    Это позволит вам научиться разрабатывать код на Python, следуя лучшим практикам в области безопасности.
